@@ -1,0 +1,77 @@
+$date
+	Sat Aug 08 16:48:12 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module full_sub_gate_tb $end
+$var wire 1 ! Diff $end
+$var wire 1 " Bout $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$var reg 1 % C $end
+$scope module uut $end
+$var wire 1 # A $end
+$var wire 1 $ B $end
+$var wire 1 " Bout $end
+$var wire 1 % C $end
+$var wire 1 ! Diff $end
+$var wire 1 & w1 $end
+$var wire 1 ' w2 $end
+$var wire 1 ( w3 $end
+$var wire 1 ) w4 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0)
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#10
+1"
+1)
+1'
+1!
+1%
+#20
+0'
+1&
+1(
+0%
+1$
+#30
+0!
+1%
+#40
+0"
+0)
+1!
+0(
+0%
+0$
+1#
+#50
+0!
+1%
+#60
+0&
+0%
+1$
+#70
+1"
+1)
+1'
+1!
+1%
+#80
